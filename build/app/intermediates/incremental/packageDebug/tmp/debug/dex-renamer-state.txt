@@ -1,4 +1,0 @@
-#Thu Aug 25 16:01:18 IST 2022
-base.0=/Users/mac-mini-7/Documents/webelight_project/bitrise_demo/bitrise_demo_example/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
